@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZorraZabb
 - 👀 I’m interested in YOU!!!
 - 🌱 I’m currently learning Pythonidae Fitzinger
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My Blog --> https://medium.com/@gagpoohpooh
 
 <!---
 ZorraZabb/ZorraZabb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
